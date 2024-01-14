@@ -1,6 +1,7 @@
 {
     "private": true,
     "scripts": {
+        "build": "npm intall",
         "dev": "npm run development",
         "development": "mix",
         "watch": "mix watch",
